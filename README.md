@@ -118,4 +118,6 @@ Build a robust Candidate Ranking Framework capable of identifying top AI Enginee
 
 **Participant in INDIA RUNS Hackathon Track 01: The Data & AI Challenge**
 
+**Participant Type/Category: Solo**
+
 **Passionate about AI, Cybersecurity, Data Science, and Full Stack Development.**
