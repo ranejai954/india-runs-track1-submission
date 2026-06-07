@@ -263,5 +263,5 @@ def main():
     print(f"✅ Generated file matches strict rules. Ready for validation utility script.")
     print(f"Run this script --> python validate_submission.py submission_READY.csv")
 
-if __name__ == "__main__"
+if __name__ == "__main__":
     main()
