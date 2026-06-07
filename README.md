@@ -30,23 +30,23 @@ An additional behavioral scoring layer contributes up to **30% of the final rank
 
 ---
 
-## 🔍 Anti-Gaming & Quality Controls
+## 1. 🔍 Anti-Gaming & Quality Controls
 
 To improve ranking quality and reduce false positives, the system includes several defensive mechanisms:
 
-### 🛡️ Consulting Background Detection
+### 2. 🛡️ Consulting Background Detection
 
 Profiles heavily associated with mass-service consulting organizations are appropriately weighted based on challenge requirements.
 
-### 🚨 Keyword Stuffing Detection
+### 3. 🚨 Keyword Stuffing Detection
 
 Identifies profiles that artificially inflate relevance through excessive keyword repetition.
 
-### 🍯 Honeypot Candidate Identification
+### 4. 🍯 Honeypot Candidate Identification
 
 Detects suspicious or low-quality profiles that may bypass traditional matching systems.
 
-### 📊 Signal-Based Evaluation
+### 5. 📊 Signal-Based Evaluation
 
 Uses multiple indicators rather than relying solely on skill keywords.
 
@@ -66,10 +66,9 @@ Uses multiple indicators rather than relying solely on skill keywords.
 
 ```text
 .
-├── ranker_nuclear.py
+├── ranker_complete.py
 ├── validate_submission.py
-├── submission_FINAL_SUBMIT.csv
-├── data/
+├── submission_READY.csv
 └── README.md
 ```
 
