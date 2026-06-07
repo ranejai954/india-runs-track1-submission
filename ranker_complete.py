@@ -260,7 +260,8 @@ def main():
             reasoning = f"{cand['title']} at {cand['company']} with {cand['years']} yrs exp; response rate {cand['response_rate']:.2f}"
             writer.writerow([cand["candidate_id"], rank, cand["score"], reasoning])
     
-    print(f"✅ Generated file matches strict rules. Ready for validation utility script. run this script --> python validate_submission.py submission_READY.csv")
+    print(f"✅ Generated file matches strict rules. Ready for validation utility script.")
+    print(f"Run this script --> python validate_submission.py submission_READY.csv")
 
-if __name__ == "__main__":
+if __name__ == "__main__"
     main()
