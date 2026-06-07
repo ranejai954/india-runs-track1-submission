@@ -79,13 +79,13 @@ Uses multiple indicators rather than relying solely on skill keywords.
 ### 1. Run the Ranking Engine
 
 ```bash
-python ranker_nuclear.py
+python ranker_complete.py
 ```
 
 ### 2. Validate the Final Submission
 
 ```bash
-python validate_submission.py submission_FINAL_SUBMIT.csv
+python validate_submission.py submission_READY.csv
 ```
 
 ---
