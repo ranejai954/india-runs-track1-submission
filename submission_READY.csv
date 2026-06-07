@@ -1,0 +1,101 @@
+candidate_id,rank,score,reasoning
+CAND_0052328,1,0.9370,Recommendation Systems Engineer at Amazon with 6.5 yrs exp; response rate 0.79
+CAND_0079387,2,0.9363,AI Engineer at Microsoft with 6.9 yrs exp; response rate 0.81
+CAND_0081846,3,0.9321,Lead AI Engineer at Razorpay with 6.7 yrs exp; response rate 0.73
+CAND_0036184,4,0.9314,Recommendation Systems Engineer at CRED with 6.0 yrs exp; response rate 0.90
+CAND_0055905,5,0.9297,Senior Machine Learning Engineer at Flipkart with 8.1 yrs exp; response rate 0.87
+CAND_0053591,6,0.9254,AI Engineer at Ola with 5.3 yrs exp; response rate 0.81
+CAND_0018499,7,0.9228,Senior Machine Learning Engineer at Zomato with 7.2 yrs exp; response rate 0.61
+CAND_0014440,8,0.9208,Recommendation Systems Engineer at CRED with 6.4 yrs exp; response rate 0.64
+CAND_0065195,9,0.9202,Search Engineer at CRED with 5.1 yrs exp; response rate 0.80
+CAND_0041669,10,0.9196,Recommendation Systems Engineer at CRED with 8.0 yrs exp; response rate 0.77
+CAND_0076163,11,0.9164,NLP Engineer at Ola with 6.9 yrs exp; response rate 0.84
+CAND_0066999,12,0.9097,Recommendation Systems Engineer at Microsoft with 5.9 yrs exp; response rate 0.63
+CAND_0062247,13,0.9066,AI Engineer at Google with 7.3 yrs exp; response rate 0.78
+CAND_0000031,14,0.9005,Recommendation Systems Engineer at Swiggy with 6.0 yrs exp; response rate 0.91
+CAND_0030031,15,0.8962,AI Engineer at Microsoft with 5.7 yrs exp; response rate 0.94
+CAND_0018549,16,0.8937,Recommendation Systems Engineer at Uber with 6.8 yrs exp; response rate 0.73
+CAND_0008425,17,0.8892,Senior NLP Engineer at Ola with 7.8 yrs exp; response rate 0.66
+CAND_0075249,18,0.8851,Applied ML Engineer at Zomato with 6.2 yrs exp; response rate 0.82
+CAND_0011687,19,0.8814,Senior NLP Engineer at Niramai with 7.8 yrs exp; response rate 0.89
+CAND_0002025,20,0.8765,Senior AI Engineer at Apple with 5.9 yrs exp; response rate 0.80
+CAND_0039838,21,0.8763,Recommendation Systems Engineer at Amazon with 4.9 yrs exp; response rate 0.80
+CAND_0077337,22,0.8691,Staff Machine Learning Engineer at Paytm with 7.0 yrs exp; response rate 0.95
+CAND_0046525,23,0.8675,Senior Machine Learning Engineer at Genpact AI with 6.1 yrs exp; response rate 0.88
+CAND_0083307,24,0.8659,Search Engineer at CRED with 7.8 yrs exp; response rate 0.70
+CAND_0093912,25,0.8657,Senior Data Scientist at Razorpay with 5.3 yrs exp; response rate 0.66
+CAND_0058688,26,0.8637,AI Engineer at Vedantu with 6.7 yrs exp; response rate 0.74
+CAND_0051615,27,0.8596,Search Engineer at Meta with 4.6 yrs exp; response rate 0.88
+CAND_0046064,28,0.8595,Senior NLP Engineer at Salesforce with 8.9 yrs exp; response rate 0.78
+CAND_0072660,29,0.8594,Machine Learning Engineer at Unacademy with 7.1 yrs exp; response rate 0.53
+CAND_0020877,30,0.8560,Applied ML Engineer at CRED with 5.1 yrs exp; response rate 0.66
+CAND_0050454,31,0.8552,AI Engineer at Rephrase.ai with 6.8 yrs exp; response rate 0.77
+CAND_0009024,32,0.8525,Search Engineer at Google with 5.2 yrs exp; response rate 0.46
+CAND_0055992,33,0.8520,AI Engineer at CRED with 16.9 yrs exp; response rate 0.72
+CAND_0075574,34,0.8517,Machine Learning Engineer at Haptik with 5.7 yrs exp; response rate 0.58
+CAND_0044222,35,0.8501,AI Engineer at PolicyBazaar with 7.7 yrs exp; response rate 0.60
+CAND_0040117,36,0.8469,Recommendation Systems Engineer at PhonePe with 6.5 yrs exp; response rate 0.66
+CAND_0071974,37,0.8453,Senior AI Engineer at Netflix with 7.8 yrs exp; response rate 0.76
+CAND_0026532,38,0.8449,Recommendation Systems Engineer at Zomato with 4.8 yrs exp; response rate 0.52
+CAND_0088025,39,0.8388,Staff Machine Learning Engineer at Yellow.ai with 8.6 yrs exp; response rate 0.83
+CAND_0041610,40,0.8365,Recommendation Systems Engineer at Zoho with 6.7 yrs exp; response rate 0.52
+CAND_0011162,41,0.8360,Recommendation Systems Engineer at upGrad with 5.8 yrs exp; response rate 0.75
+CAND_0053695,42,0.8348,Recommendation Systems Engineer at Meesho with 5.8 yrs exp; response rate 0.60
+CAND_0006418,43,0.8343,Machine Learning Engineer at Verloop.io with 5.7 yrs exp; response rate 0.92
+CAND_0078492,44,0.8328,Recommendation Systems Engineer at Verloop.io with 5.1 yrs exp; response rate 0.70
+CAND_0081053,45,0.8328,NLP Engineer at Glance with 5.4 yrs exp; response rate 0.83
+CAND_0020350,46,0.8301,AI Engineer at Zoho with 5.8 yrs exp; response rate 0.58
+CAND_0028793,47,0.8293,Search Engineer at Google with 7.2 yrs exp; response rate 0.57
+CAND_0091909,48,0.8285,Machine Learning Engineer at Rephrase.ai with 6.9 yrs exp; response rate 0.65
+CAND_0074735,49,0.8279,Applied ML Engineer at Rephrase.ai with 5.5 yrs exp; response rate 0.77
+CAND_0068351,50,0.8273,Lead AI Engineer at Sarvam AI with 6.4 yrs exp; response rate 0.86
+CAND_0064326,51,0.8270,Search Engineer at Sarvam AI with 7.6 yrs exp; response rate 0.94
+CAND_0037566,52,0.8263,Machine Learning Engineer at LinkedIn with 6.9 yrs exp; response rate 0.50
+CAND_0039383,53,0.8244,Applied ML Engineer at Meesho with 7.1 yrs exp; response rate 0.61
+CAND_0075439,54,0.8239,Machine Learning Engineer at Flipkart with 4.3 yrs exp; response rate 0.56
+CAND_0020708,55,0.8221,Search Engineer at PolicyBazaar with 4.2 yrs exp; response rate 0.84
+CAND_0069905,56,0.8214,Applied ML Engineer at Sarvam AI with 6.6 yrs exp; response rate 0.78
+CAND_0062561,57,0.8212,ML Engineer at Razorpay with 5.9 yrs exp; response rate 0.36
+CAND_0054123,58,0.8205,Applied ML Engineer at Meta with 4.7 yrs exp; response rate 0.87
+CAND_0093193,59,0.8205,Senior Machine Learning Engineer at Niramai with 7.9 yrs exp; response rate 0.61
+CAND_0049538,60,0.8192,Applied ML Engineer at Saarthi.ai with 5.8 yrs exp; response rate 0.72
+CAND_0079284,61,0.8183,Machine Learning Engineer at Google with 4.9 yrs exp; response rate 0.79
+CAND_0096142,62,0.8183,Applied ML Engineer at upGrad with 5.0 yrs exp; response rate 0.84
+CAND_0051630,63,0.8167,Machine Learning Engineer at Razorpay with 6.0 yrs exp; response rate 0.51
+CAND_0007412,64,0.8166,Applied ML Engineer at Zoho with 7.4 yrs exp; response rate 0.76
+CAND_0061265,65,0.8162,Recommendation Systems Engineer at Zoho with 6.6 yrs exp; response rate 0.94
+CAND_0006567,66,0.8161,Senior AI Engineer at Meta with 7.9 yrs exp; response rate 0.79
+CAND_0008239,67,0.8130,AI Engineer at Apple with 4.0 yrs exp; response rate 0.73
+CAND_0081686,68,0.8120,Search Engineer at Netflix with 6.0 yrs exp; response rate 0.91
+CAND_0095619,69,0.8114,NLP Engineer at Nykaa with 15.6 yrs exp; response rate 0.90
+CAND_0024620,70,0.8109,AI Engineer at PharmEasy with 5.9 yrs exp; response rate 0.41
+CAND_0032807,71,0.8101,Machine Learning Engineer at CRED with 4.2 yrs exp; response rate 0.51
+CAND_0041568,72,0.8096,Search Engineer at Haptik with 5.2 yrs exp; response rate 0.52
+CAND_0077285,73,0.8082,Recommendation Systems Engineer at Nykaa with 5.5 yrs exp; response rate 0.56
+CAND_0043228,74,0.8081,Applied ML Engineer at Zoho with 6.8 yrs exp; response rate 0.41
+CAND_0066376,75,0.8079,Applied ML Engineer at Dream11 with 5.7 yrs exp; response rate 0.51
+CAND_0042506,76,0.8074,Search Engineer at Verloop.io with 4.2 yrs exp; response rate 0.48
+CAND_0050876,77,0.8057,Applied ML Engineer at Freshworks with 6.0 yrs exp; response rate 0.67
+CAND_0061655,78,0.8055,Machine Learning Engineer at Krutrim with 4.6 yrs exp; response rate 0.88
+CAND_0071115,79,0.8052,Recommendation Systems Engineer at Meta with 16.5 yrs exp; response rate 0.50
+CAND_0056881,80,0.8041,Machine Learning Engineer at Zomato with 4.5 yrs exp; response rate 0.75
+CAND_0099806,81,0.8040,AI Engineer at Mad Street Den with 4.6 yrs exp; response rate 0.76
+CAND_0010149,82,0.8035,ML Engineer at Glance with 6.9 yrs exp; response rate 0.82
+CAND_0007009,83,0.8029,Recommendation Systems Engineer at Wysa with 7.9 yrs exp; response rate 0.62
+CAND_0083879,84,0.8026,Machine Learning Engineer at Ola with 7.1 yrs exp; response rate 0.47
+CAND_0010685,85,0.7973,NLP Engineer at Rephrase.ai with 6.7 yrs exp; response rate 0.83
+CAND_0032515,86,0.7965,Machine Learning Engineer at PharmEasy with 5.1 yrs exp; response rate 0.54
+CAND_0042100,87,0.7962,Machine Learning Engineer at Freshworks with 7.3 yrs exp; response rate 0.87
+CAND_0068811,88,0.7962,Applied ML Engineer at Freshworks with 8.0 yrs exp; response rate 0.42
+CAND_0027691,89,0.7954,NLP Engineer at Haptik with 6.5 yrs exp; response rate 0.68
+CAND_0074225,90,0.7938,Machine Learning Engineer at Unacademy with 4.3 yrs exp; response rate 0.91
+CAND_0031593,91,0.7933,Search Engineer at Genpact AI with 7.8 yrs exp; response rate 0.58
+CAND_0015578,92,0.7932,AI Engineer at Zoho with 5.4 yrs exp; response rate 0.65
+CAND_0094759,93,0.7928,Lead AI Engineer at Meta with 8.6 yrs exp; response rate 0.11
+CAND_0012957,94,0.7921,Search Engineer at Razorpay with 4.9 yrs exp; response rate 0.67
+CAND_0052682,95,0.7916,NLP Engineer at Aganitha with 6.6 yrs exp; response rate 0.88
+CAND_0051292,96,0.7905,Applied ML Engineer at Freshworks with 5.2 yrs exp; response rate 0.52
+CAND_0010257,97,0.7884,Senior Data Scientist at Google with 6.5 yrs exp; response rate 0.72
+CAND_0024147,98,0.7879,ML Engineer at Ola with 5.9 yrs exp; response rate 0.84
+CAND_0052335,99,0.7868,Applied ML Engineer at Aganitha with 6.4 yrs exp; response rate 0.79
+CAND_0064904,100,0.7863,AI Engineer at LinkedIn with 4.9 yrs exp; response rate 0.78
