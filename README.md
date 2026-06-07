@@ -1,57 +1,122 @@
-# 🚀 INDIA RUNS — Track 01: Data & AI Challenge
+# 🚀 INDIA RUNS - Track 01: Data & AI Challenge
 
-> **Nuclear Option candidate ranking engine targeting Redrob's AI Engineer mandate.** > Processes, scores, and optimally sorts 100,000+ profiles with exact mathematical tie-breaking precision.
-
----
-
-## 📊 Evaluation Architecture
-
-The scoring core evaluates candidates via dual pipelines combining job description positioning (70%) alongside active behavioral engagement markers (30%).
-
-### ⚙️ Scoring Weight Matrix
-
-┌──────────────────────────────────────────────────────────┐
-│              CORE JD MATCHING ENGINE (70%)               │
-├───────────────┬──────────────────┬───────────┬───────────┤
-│ Title Match   │ Company Quality  │ Skills    │ Exp/Edu   │
-│ 30%           │ 20%              │ 25%       │ 15% / 10% │
-└───────────────┴──────────────────┴───────────┴───────────┘
-│
-▼
-┌──────────────────────────────────────────────────────────┐
-│              BEHAVIORAL ENGAGEMENT (30%)                 │
-├──────────────────────────────────────────────────────────┤
-│ Response rate, platform activity, notice period limits  │
-└──────────────────────────────────────────────────────────┘
-
-
-* **🎯 Role Identification (30%):** Strict structural grading for targeted titles (`Vector Search`, `LLM`, `Applied ML`, `NLP`).
-* **💡 Core Tech Capabilities (25%):** Weighted search coverage on embeddings, vector indexing (`FAISS`, `Pinecone`), and modern indexing heuristics.
-* **🏢 Placement Background (20%):** Higher grading for proven technology footprints, down-weighting service/consulting layers.
-* **⏳ Seniority Index (15%):** Premium scaling curve focused squarely on the optimal 5–9 years experience horizon.
-* **🎓 Academic Tiering (10%):** Strict matrix processing across Tier-1, Tier-2, and Tier-3 credentials.
+> A high-performance candidate ranking system designed to evaluate and prioritize **100,000+ profiles** against Redrob's AI Engineering Job Description using a custom rule-based scoring engine.
 
 ---
 
-## 🛡️ Anti-Manipulation & Structural Safety
+## 📌 Project Overview
 
-The platform integrates deep telemetry checks designed to expose artificial profile optimization:
+This project was developed as part of the **INDIA RUNS – Track 01: Data & AI Challenge**.
 
-* **🚫 Service Footprint Filter:** Automated penalty layers targeting mass consulting platforms (*TCS, Infosys, Wipro, Cognizant*).
-* **📉 Keyword Stuffing Throttles:** Activates an aggressive score reduction multiplier whenever skill arrays cross the 20+ count threshold.
-* **🪤 Honeypot Assertions:** Instant 90% score drop for candidate entities claiming "Expert" status while exposing fraudulent zero-month duration values.
+The objective was to build an intelligent ranking system capable of identifying the most suitable candidates from a large talent pool by analyzing professional background, technical skills, education, experience, and behavioral indicators.
 
 ---
 
-## 🏃 Run & Validate Execution Trace
+## 🎯 Ranking Methodology
 
-The engine uses standard Python decimal-base numeric formatting (`Decimal`) to guarantee true mathematical sorting without floating-point precision slippage. 
+Each candidate is assigned a composite score based on multiple weighted factors:
 
-Follow this two-step validation pipeline to execute the ranker and confirm compliance against the tournament testing harness:
+| Criteria             | Weight |
+| -------------------- | ------ |
+| 🎓 Education Tier    | 10%    |
+| 💼 Experience Years  | 15%    |
+| 🛠️ Skills Relevance | 25%    |
+| 🏢 Company Quality   | 20%    |
+| 📋 Job Title Match   | 30%    |
 
-### 1. Execute Ranking System
+### 🧠 Behavioral Intelligence Layer
+
+An additional behavioral scoring layer contributes up to **30% of the final ranking score**, helping identify stronger candidates beyond keyword matching.
+
+---
+
+## 🔍 Anti-Gaming & Quality Controls
+
+To improve ranking quality and reduce false positives, the system includes several defensive mechanisms:
+
+### 🛡️ Consulting Background Detection
+
+Profiles heavily associated with mass-service consulting organizations are appropriately weighted based on challenge requirements.
+
+### 🚨 Keyword Stuffing Detection
+
+Identifies profiles that artificially inflate relevance through excessive keyword repetition.
+
+### 🍯 Honeypot Candidate Identification
+
+Detects suspicious or low-quality profiles that may bypass traditional matching systems.
+
+### 📊 Signal-Based Evaluation
+
+Uses multiple indicators rather than relying solely on skill keywords.
+
+---
+
+## ⚙️ Technical Highlights
+
+* Processes **100,000+ candidate profiles**
+* Weighted multi-factor scoring engine
+* Rule-based explainable ranking system
+* Data validation and submission verification
+* Scalable and lightweight architecture
+
+---
+
+## 📂 Project Structure
+
+```text
+.
+├── ranker_nuclear.py
+├── validate_submission.py
+├── submission_FINAL_SUBMIT.csv
+├── data/
+└── README.md
+```
+
+---
+
+## 🚀 Getting Started
+
+### 1. Run the Ranking Engine
+
 ```bash
 python ranker_nuclear.py
-2. Verify Output Schema & Constraints
-Bash
+```
+
+### 2. Validate the Final Submission
+
+```bash
 python validate_submission.py submission_FINAL_SUBMIT.csv
+```
+
+---
+
+## 📈 Features
+
+✅ Multi-factor candidate evaluation
+
+✅ Behavioral signal analysis
+
+✅ Explainable scoring methodology
+
+✅ Anti-manipulation safeguards
+
+✅ Large-scale profile processing
+
+✅ Automated submission validation
+
+---
+
+## 🏆 Challenge Goal
+
+Build a robust Candidate Ranking Framework capable of identifying top AI Engineering talent while minimizing ranking bias, profile manipulation, and low-quality matches.
+
+---
+
+## 👨‍💻 Author
+
+**Jai Rane**
+
+**Participant in INDIA RUNS Hackathon Track 01: The Data & AI Challenge**
+
+**Passionate about AI, Cybersecurity, Data Science, and Full Stack Development.**
